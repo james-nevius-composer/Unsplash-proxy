@@ -1,3 +1,4 @@
+console.log('UNSPLASH_ACCESS_KEY:', UNSPLASH_ACCESS_KEY);
 
 const express = require('express');
 const fetch = require('node-fetch');
